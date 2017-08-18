@@ -14,6 +14,7 @@
 #define GEN6_LEARNSETS  false          //set to true if you want to have learnsets for pokemon up to genVI
 #define GEN7_LEARNSETS  false          //set to true if you want to have learnsets for pokemon up to genVII
 
+#define WOBB                true    //Add wobb to your game
 #define EXP_CAPTURE         true    //set to false if you don't want to receive exp from catching pokes
 #define STAT_RECALC         false   //set to true if you want all pokemon having their stats recalculated at the end of the battle
 #define ITEM_STEAL          false   //if true player is able to steal other trainers' items, if false the stolen item will disappear at the end of the battle
